@@ -13,3 +13,34 @@
 .twitter {
   text-decoration: none;
 }
+.heading {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.whale-pic {
+  display: block;
+  margin: 0 auto;
+}
+.main-report {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa
+}
+.cover-img {
+  float: left;
+  margin-right: 40px;
+}
+.first-para {
+  font-style: italic;
+  font-size: 20px;
+}
+.first-line {
+  font-style: normal;
+  font-size: 24px;
+  color: red;
+  font-weight: bold;
+}
+.block-table {
+  padding: 10px;
+}
