@@ -1,0 +1,15 @@
+.nav-menu {
+  text-align: right;
+}
+.nav-spacing {
+  margin: 0 0 0 10px;
+  text-decoration: none;
+  color: #0000ee;
+}
+.quotes {
+  padding: 2px 20px;
+  background: #ffdab3;
+}
+.twitter {
+  text-decoration: none;
+}
